@@ -1,6 +1,6 @@
 # Set the coursework folder and create a separate location for generated outputs.
 
-PROJECT_DIR <- "Your_path"
+PROJECT_DIR <- getwd()
 OUTPUT_DIR <- file.path(PROJECT_DIR, "outputs")
 
 if (!dir.exists(PROJECT_DIR)) {
