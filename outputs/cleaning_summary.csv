@@ -1,0 +1,7 @@
+"measure","records"
+"Raw rows",541910
+"Repeated exact duplicates removed",5268
+"Commercially interpretable rows before deduplication",539393
+"Final cleaned rows",534130
+"Final sale rows",524879
+"Final cancellation rows",9251

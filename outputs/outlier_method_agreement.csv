@@ -1,0 +1,5 @@
+"measure","records"
+"Sample size",50000
+"Flagged by both methods",712
+"Flagged only by IQR",742
+"Flagged only by Mahalanobis distance",715

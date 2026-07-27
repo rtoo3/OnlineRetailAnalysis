@@ -1,0 +1,8 @@
+"measure","value"
+"Raw input CSV size in MB",49.56
+"Final tidy dataset rows",534130
+"Final tidy dataset columns",12
+"Missing values remaining",0
+"Rows with UNKNOWN customer ID",132565
+"Zero or negative prices remaining",0
+"Exact duplicates remaining",0

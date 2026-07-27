@@ -1,0 +1,8 @@
+"issue","records","percentage"
+"Missing customer ID",135080,24.93
+"Missing description",1454,0.27
+"Repeated exact copy",5268,0.97
+"Cancellation line",9288,1.71
+"Negative quantity",10624,1.96
+"Zero quantity",0,0
+"Zero or negative price",2517,0.46

@@ -1,0 +1,5 @@
+"step","records"
+"Raw data",541910
+"After blank customer IDs removed",406830
+"After non-positive quantities removed",397925
+"After exact duplicates removed",392733

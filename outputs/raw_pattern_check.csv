@@ -1,0 +1,6 @@
+"measure","records"
+"Zero-price rows",2515
+"Negative-price rows",2
+"Zero-price rows with missing description",1454
+"Zero-price rows with missing customer ID",2475
+"Negative quantity rows outside cancellation invoices",1336
